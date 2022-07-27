@@ -1,5 +1,7 @@
 ##  JavaScript Training
 
-# VAR, LET, CONST
-# Conditional statements
-# Conditional Operators
+VAR, LET, CONST
+
+Conditional statements
+
+Conditional Operators
